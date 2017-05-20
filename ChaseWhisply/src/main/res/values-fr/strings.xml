@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chase Whisply</string>
+
+    <string name="integer_zero">0</string>
+
+    <!-- Home Activity !-->
+    <string name="home_play">Jouer</string>
+    <string name="home_leaderboard">Classements</string>
+    <string name="home_achievement">Réussites</string>
+    <string name="home_about">À Propos</string>
+    <string name="home_sign_in">Connexion</string>
+    <string name="home_sign_info">Connectez-vous à Google Plus pour partager vos scores et vos
+        réussites avec vos amis.
+    </string>
+    <string name="home_not_sign_in_leaderboard">Connectez-vous à Google Plus pour voir votre classement.</string>
+    <string name="home_not_sign_in_achievement">Connectez-vous à Google Plus pour débloquer vos réussites.</string>
+    <string name="home_sign_out">Déconnexion</string>
+    <string name="home_sign_out_confirm_dialog_message">Êtes-vous sûr(e) de vouloir vous déconnecter ?</string>
+    <string name="home_sign_out_success">Vous avez été déconnecté(e) avec succès.</string>
+    <string name="home_internet_unavailable">Veuillez vous connecter à Internet.</string>
+
+    <!-- in game !-->
+    <string name="in_game_kill_counter">Frag : %1$d</string>
+    <string name="in_game_combo_counter">x %1$d</string>
+    <string name="in_game_score">Score : %1$d</string>
+    <string name="in_game_time">Temps : %1$d s</string>
+    <string name="in_game_no_ammo_message">Pas de munition</string>
+
+    <!-- Level Chooser Activity !-->
+    <string name="level_chooser">Sélectionnez un mode de jeu</string>
+
+    <!-- Leaderboard Chooser Fragment !-->
+    <string name="leaderboard_chooser_title">Sélectionnez un classement</string>
+    <string name="leaderboard_chooser_time_limited_level_1_description">Meilleurs scores, mode de
+        jeu : 30 secondes.
+    </string>
+    <string name="leaderboard_chooser_time_limited_level_2_description">Meilleurs scores, mode de
+        jeu : 60 secondes.
+    </string>
+    <string name="leaderboard_chooser_time_limited_level_3_description">Meilleurs scores, mode de
+        jeu : 90 secondes.
+    </string>
+    <string name="leaderboard_chooser_survival_description">Meilleurs scores, mode de jeu : survie.</string>
+
+    <!-- Game Mode rules !-->
+    <string name="game_mode_remaining_time">Tuez le plus de fantômes possibles dans le temps imparti.</string>
+    <string name="game_mode_time_limited_level_1">Tuez le plus de fantômes possibles en 30 secondes.</string>
+    <string name="game_mode_time_limited_level_2">Tuez le plus de fantômes possibles en 60 secondes.</string>
+    <string name="game_mode_time_limited_level_3">Tuez le plus de fantômes possibles en 90 secondes.</string>
+    <string name="game_mode_target_limited">Tuez tous les fantômes le plus vite possible.</string>
+    <string name="game_mode_survival">Survie : chaque fantôme tué vous rapporte du temps supplémentaire.</string>
+
+    <!-- Score Activity !-->
+    <string name="score_number_of_bullets_fired">Balles tirées</string>
+    <string name="score_number_of_targets_killed">Cibles abattues</string>
+    <string name="score_max_combo">Combo Max</string>
+    <string name="score_final_score">Score Final</string>
+    <string name="score_skip_button">Passer</string>
+    <string name="score_replay_button">Rejouer</string>
+    <string name="score_home_button">Accueil</string>
+    <string name="score_share_button">Partager</string>
+    <string name="score_share_dialog">Partagez votre score avec l\'application de votre choix</string>
+    <string name="score_share_subject">Chase Whisply</string>
+    <string name="score_share_content">Je joue à Chase Whisply. Pouvez-vous battre mon score : %1$d
+        ? \n \n https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply
+    </string>
+
+    <!-- About Fragment -->
+    <string name="about_title">Chase Whisply</string>
+    <string name="about_version_detail">version Beta.1.1</string>
+    <string name="about_developer_card_title">Développeurs</string>
+    <string name="about_tbarthel_name">Thomas \"Tbarthel\" Barthélémy</string>
+    <string name="about_vbarthel_name">Vincent \"Vbarthel\" Barthélémy</string>
+    <string name="about_thanks_section">Remerciements à…</string>
+    <string name="about_thanks_tkeunebr">Thomas Keunebroek, pour son support de la première heure et
+        ses précieux conseils.
+    </string>
+    <string name="about_license_section">Licence</string>
+    <string name="about_license_title">Licence utilisée : Beerware License</string>
+    <string name="about_license_content">\"You can do whatever you want with this stuff.
+        If we meet some day, and you think this stuff is worth it, you can buy us a beer (or
+        basically anything else) in return.\"
+    </string>
+    <string name="about_license_content_link">Code source disponible à
+        https://github.com/tvbarthel/ChaseWhisplyProject
+    </string>
+    <string name="sign_in_message">La prochaine fois, sauvegardez, partagez et comparez vos scores
+        avec les autres joueurs en vous connectant via Google Plus !
+    </string>
+
+    <!-- Tuto Activity -->
+    <string name="tuto_default_title">Bientôt…</string>
+    <string name="tuto_title_page_0">Chase Whisply</string>
+    <string name="tuto_title_page_1">En jeu\nCibles</string>
+    <string name="tuto_title_page_2">En jeu\nCibles</string>
+    <string name="tuto_title_page_3">En jeu\nCombos</string>
+    <string name="tuto_title_page_4">En jeu\nMouvement</string>
+    <string name="tuto_title_page_5">En jeu\nMunitions</string>
+    <string name="tuto_title_page_6">En jeu\nMunitions</string>
+    <string name="tuto_title_page_7">Menu\nJouer</string>
+    <string name="tuto_title_page_8">Menu\nClassements</string>
+    <string name="tuto_title_page_9">Menu\nRéussites</string>
+    <string name="tuto_title_page_10">Prêt pour\nle Combat</string>
+    <string name="tuto_button_close">Fermer</string>
+
+    <!-- Tuto Fragment Page Welcome -->
+    <string name="tuto_page_welcome_title">Bienvenue,</string>
+    <string name="tuto_page_welcome_subtitle">padawan.</string>
+    <string name="tuto_page_welcome_content">Votre mission est de
+        traquer, trouver et tuer les fantômes vivants autour de vous.
+    </string>
+    <string name="tuto_page_welcome_additional_text">Glissez vers la gauche pour en apprendre plus.</string>
+
+    <!-- Tuto Fragment Page Play Button -->
+    <string name="tuto_page_play_button_content">Sélectionnez votre mode favori et chassez les fantômes autour de
+        vous.
+    </string>
+
+    <!-- Tuto Fragment Page Leaderboard Button -->
+    <string name="tuto_page_leaderboard_button_content">Comparez votre score avec ceux de vos amis et devenez le
+        meilleur chasseur au monde.
+    </string>
+
+    <!-- Tuto Fragment Page Achievement Button -->
+    <string name="tuto_page_achievement_button_content">Améliorez vous en tant que chasseur de fantômes et gardez une
+        trace de votre progression.
+    </string>
+
+    <!-- Tuto Fragment Page Aim Tip -->
+    <string name="tuto_page_aim_tip_content">Pour viser avec facilité, imaginez votre téléphone comme un
+        viseur. Bougez vos bras et non seulement vos mains.
+    </string>
+
+    <!-- Tuto Fragment Target -->
+    <string name="tuto_page_target_content">Vos cibles sont Whisply et ses frères jumeaux.</string>
+    <string name="tuto_page_target_bis_content">Mettez-en un en joue et tirez en touchant l\'écran.</string>
+
+    <!-- Tuto Fragment Ammo -->
+    <string name="tuto_page_ammo_content">Surveillez vos munitions en bas à droite de votre écran ou vous serez vite à
+        court de balles.
+    </string>
+    <string name="tuto_page_ammo_bis_content">Vous regagnez des munitions avec le temps.</string>
+
+    <!-- Tuto Fragment Page Ready To Fight -->
+    <string name="tuto_page_ready_to_fight_congratulation">Félicitations, vous êtes prêt à jouer.</string>
+    <string name="tuto_page_ready_to_fight_reaccess_tutorial">Vous pouvez accéder de nouveau à ce tutorial à tout moment
+        depuis
+        le menu principal.
+    </string>
+    <string name="tuto_page_ready_to_fight_gl_hf">Bonne chance &amp; Amusez-vous bien !</string>
+
+    <!-- Tuto Fragment Page Combos -->
+    <string name="tuto_page_combo_content">Ne manquez pas votre cible et cumulez des combos pour augmenter votre score
+        plus rapidement.
+    </string>
+    <string name="tuto_page_combo_example">x4</string>
+</resources>

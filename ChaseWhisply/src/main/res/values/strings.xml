@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Open Fire</string>
+
+    <string name="integer_zero">0</string>
+    <string name="integer_four">4</string>
+
+    <!-- Home Activity !-->
+    <string name="home_play">Play</string>
+    <string name="home_leaderboard">Leaderboards</string>
+    <string name="home_achievement">Achievements</string>
+    <string name="home_about">About</string>
+    <string name="home_sign_in">Sign in</string>
+    <string name="home_sign_info">Sign in with Google to share your scores and achievements with your friends.</string>
+    <string name="home_not_sign_in_leaderboard">Sign in with Google to see the leaderboards.</string>
+    <string name="home_not_sign_in_achievement">Sign in with Google to unlock achievements.</string>
+    <string name="home_sign_out">Sign out</string>
+    <string name="home_sign_out_confirm_dialog_message">Are you sure you wish to sign out?</string>
+    <string name="home_sign_out_success">You\'ve successfully signed out.</string>
+    <string name="home_internet_unavailable">Please connect to the Internet.</string>
+
+    <!-- in game !-->
+    <string name="in_game_kill_counter">Frag: %1$d</string>
+    <string name="in_game_combo_counter">x %1$d</string>
+    <string name="in_game_score">Score: %1$d</string>
+    <string name="in_game_time">Time: %1$d s</string>
+    <string name="in_game_no_ammo_message">No Ammo</string>
+
+    <!-- Level Chooser Activity !-->
+    <string name="level_chooser">Select game mode</string>
+
+    <!-- Leaderboard Chooser Fragment !-->
+    <string name="leaderboard_chooser_title">Select leaderboard</string>
+    <string name="leaderboard_chooser_time_limited_level_1_description">30 seconds High Scores.</string>
+    <string name="leaderboard_chooser_time_limited_level_2_description">60 seconds High Scores.</string>
+    <string name="leaderboard_chooser_time_limited_level_3_description">90 seconds High Scores.</string>
+    <string name="leaderboard_chooser_survival_description">Survival High Scores.</string>
+
+    <!-- Game Mode rules !-->
+    <string name="game_mode_remaining_time">Kill most ghosts as you can in given time.</string>
+    <string name="game_mode_time_limited_level_1">Kill as many ghosts as you can in 30 seconds.</string>
+    <string name="game_mode_time_limited_level_2">Kill as many ghosts as you can in 60 seconds.</string>
+    <string name="game_mode_time_limited_level_3">Kill as many ghosts as you can in 90 seconds.</string>
+    <string name="game_mode_target_limited">Kill all ghosts as fast as you can!</string>
+    <string name="game_mode_survival">Survival: each kill gives additional time.</string>
+
+    <!-- Score Activity !-->
+    <string name="score_number_of_bullets_fired">Bullets Fired</string>
+    <string name="score_number_of_targets_killed">Targets Killed</string>
+    <string name="score_max_combo">Max Combo</string>
+    <string name="score_final_score">Final Score</string>
+    <string name="score_skip_button">Skip</string>
+    <string name="score_replay_button">Replay</string>
+    <string name="score_home_button">Home</string>
+    <string name="score_share_button">Share</string>
+    <string name="score_share_dialog">How do you want to share?</string>
+    <string name="score_share_subject">Open Fire</string>
+    <string name="score_share_content">I play Open Fire. Can you beat my score : %1$d
+        ? \n \n https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply
+    </string>
+    <string name="sign_in_message">If you sign in with Google Plus, you will be able to share your
+        score and achievements with all the other players !
+    </string>
+
+    <!-- About Fragment -->
+    <string name="about_title">Open Fire</string>
+    <string name="about_version_detail">version Beta.1.1</string>
+    <string name="about_developer_card_title">Developers</string>
+    <string name="about_tbarthel_name">Harshit Agrawal</string>
+    <string name="about_vbarthel_name">Gagandeep Singh</string>
+    <string name="about_thanks_section">Special thanks to…</string>
+    <string name="about_thanks_tkeunebr">Ankit Agrawal for his day and night cooperations.</string>
+    <string name="about_license_section">License</string>
+    <string name="about_license_title">Licensed under Nothing</string>
+    <string name="about_license_content">\"This project is under development.\"
+    </string>
+    <string name="about_license_content_link">Source code is available at :
+        </string>
+
+    <!-- Tuto Activity -->
+    <string name="tuto_default_title">Soon…</string>
+    <string name="tuto_title_page_0">Open Fire</string>
+    <string name="tuto_title_page_1">In Game\nTargets</string>
+    <string name="tuto_title_page_2">In Game\nTargets</string>
+    <string name="tuto_title_page_3">In Game\nCombos</string>
+    <string name="tuto_title_page_4">In Game\nMoving</string>
+    <string name="tuto_title_page_5">In Game\nAmmunition</string>
+    <string name="tuto_title_page_6">In Game\nAmmunition</string>
+    <string name="tuto_title_page_7">Menu\nPlay</string>
+    <string name="tuto_title_page_8">Menu\nLeaderboards</string>
+    <string name="tuto_title_page_9">Menu\nAchievements</string>
+    <string name="tuto_title_page_10">Ready To\nFight</string>
+    <string name="tuto_button_close">Close</string>
+
+    <!-- Tuto Default Fragment -->
+    <string name="tuto_default_fragment_content">Default Tuto Fragment</string>
+
+    <!-- Tuto Fragment Page Welcome -->
+    <string name="tuto_page_welcome_title">Welcome,</string>
+    <string name="tuto_page_welcome_subtitle">Bakshi.</string>
+    <string name="tuto_page_welcome_content">Your mission is to seek, find and kill
+        ghosts living around you.
+    </string>
+    <string name="tuto_page_welcome_additional_text">Swipe left to learn more.</string>
+
+    <!-- Tuto Fragment Page Play Button -->
+    <string name="tuto_page_play_button_content">Select your favorite mode and hunt ghosts around you.</string>
+
+    <!-- Tuto Fragment Page Leaderboard Button -->
+    <string name="tuto_page_leaderboard_button_content">Compare your score with your friends and try to be the best
+        hunter in the World.
+    </string>
+
+    <!-- Tuto Fragment Page Achievement Button -->
+    <string name="tuto_page_achievement_button_content">Improve yourself as a ghost hunter and keep track of your
+        progression.
+    </string>
+
+    <!-- Tuto Fragment Page Aim Tip -->
+    <string name="tuto_page_aim_tip_content">In order to aim a ghost with ease, try to picture your phone as a gun
+        sights. Move your arms, not only your hands.
+    </string>
+
+    <!-- Tuto Fragment Page Target -->
+    <string name="tuto_page_target_content">Your targets are ghosts and his twin brothers.</string>
+    <string name="tuto_page_target_bis_content">Line up one of them in your gun sights and shoot by touching the
+        screen.
+    </string>
+
+    <!-- Tuto Fragment Page Ammo -->
+    <string name="tuto_page_ammo_content">Watch out your ammunitions on the bottom right of your screen, or you will run
+        out of them.
+    </string>
+    <string name="tuto_page_ammo_bis_content">You gain ammunitions over time.</string>
+
+    <!-- Tuto Fragment Page Ready To Fight -->
+    <string name="tuto_page_ready_to_fight_congratulation">Congratulations, you are ready to play.</string>
+    <string name="tuto_page_ready_to_fight_reaccess_tutorial">You can go through this tutorial at anytime from the main
+        menu.
+    </string>
+    <string name="tuto_page_ready_to_fight_gl_hf">Good Luck &amp; Have Fun.</string>
+
+    <!-- Tuto Fragment Page Combos -->
+    <string name="tuto_page_combo_content">Don\'t miss your target, and add up combos to increase your score faster.
+    </string>
+    <string name="tuto_page_combo_example">x4</string>
+</resources>

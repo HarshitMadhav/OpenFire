@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<resources>
+    <string name="app_id">144497579336</string>
+    <string name="achievement_pacifist">CgkIyKropZoEEAIQAg</string>
+    <string name="achievement_curiosity">CgkIyKropZoEEAIQCQ</string>
+    <string name="achievement_soldier">CgkIyKropZoEEAIQCg</string>
+    <string name="achievement_corporal">CgkIyKropZoEEAIQCw</string>
+    <string name="achievement_sergeant">CgkIyKropZoEEAIQDA</string>
+    <string name="achievement_thrifty">CgkIyKropZoEEAIQEQ</string>
+
+    <string name="leaderboard_30_seconds">CgkIyKropZoEEAIQDQ</string>
+    <string name="leaderboard_60_seconds">CgkIyKropZoEEAIQDg</string>
+    <string name="leaderboard_90_seconds">CgkIyKropZoEEAIQDw</string>
+    <string name="leaderboard_survival">CgkIyKropZoEEAIQEA</string>
+</resources>
